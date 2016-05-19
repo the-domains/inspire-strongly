@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[inspire strongly]]></title>
+        <description><![CDATA[inspire strongly]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 17:03:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]]]></title>
+            <description><![CDATA[<article><h1>The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]</h1><p>Design is a plan for arranging elements in such a way as to accomplish a particular purpose. - Charles Eames In order to arrange your design, you need a place to start. Backgrounds are the foundation of your graphics - it helps pave the path to forming a successful composition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/877d79945943ec595c9e850987ca4480cd3a921f.jpg"></article>]]></description>
+            <link>https://designschool.canva.com/blog/background-design/</link>
+            <guid isPermaLink="false">afdc5876-8848-42d0-8f76-8937f7004d92</guid>
+            <pubDate>Thu, 19 May 2016 17:03:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
