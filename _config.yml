@@ -1,0 +1,14 @@
+layout_spectrum: 0.30826296354644
+typography_spectrum: 0.03136979090049863
+color:
+  brandStrength: 0.4481295947916806
+  lightness: 0.6143466625362635
+  saturation: 0.5672188163734972
+  rhythmicContrast: 0.054849028354510665
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: inspire strongly
